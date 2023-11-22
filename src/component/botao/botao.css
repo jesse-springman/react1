@@ -1,0 +1,15 @@
+.btn{
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: darkorange;
+    font-size: 1rem;
+    border: 3px solid;
+}
+
+.btn:hover{
+    background-color: rgba(0, 0, 0,  0.8);
+    color: darkorange;
+    transition: .4s;
+    box-shadow: 1px 1px 1px 3px;
+}
